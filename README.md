@@ -45,4 +45,18 @@ TextKool
 3. User Interaction
 Ask for user’s name and personalize responses.
 
+4. Basic Response System
+Respond to:
 
+“How are you?”
+
+“What is your purpose?”
+
+Cybersecurity questions (e.g., phishing, strong passwords, malware).
+
+5. Input Validation
+Handle:
+
+Empty input
+
+Unknown input
