@@ -89,3 +89,12 @@ CyberBot/
 │── greeting.wav
 │── README.md
 │── .github/workflows/dotnet.yml
+
+## Future Improvements:
+Add more cybersecurity topics (phishing, ransomware, social engineering)
+
+Expand chatbot responses with AI integration
+
+Improve UI with animations
+
+##
