@@ -97,4 +97,19 @@ Expand chatbot responses with AI integration
 
 Improve UI with animations
 
-##
+## Features
+## List all implemented features:
+
+Voice greeting playback
+
+ASCII art logo
+
+Personalized user interaction
+
+Cybersecurity Q&A responses
+
+Input validation
+
+Enhanced console UI (colors, borders, typing effect)
+
+Modular code structure
