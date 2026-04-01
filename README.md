@@ -54,6 +54,26 @@ Respond to:
 
 Cybersecurity questions (e.g., phishing, strong passwords, malware).
 
+6. Enhanced Console UI
+Use:
+
+Colors (Console.ForegroundColor)
+
+Borders (ASCII box styles)
+
+Typing effect (loop with Thread.Sleep)
+
+7. Code Structure (Very Important)
+Correct structure:
+
+Program.cs → Entry point
+
+Chatbot.cs → Core chatbot logic
+
+User.cs → User data handling
+
+AudioPlayer.cs → Voice greeting playback
+
 5. Input Validation
 Handle:
 
