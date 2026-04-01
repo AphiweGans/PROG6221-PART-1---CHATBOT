@@ -35,9 +35,14 @@ Text-to-Speech sites (ttsmp3.com, fakeyou.com, naturalreaders.com)
 
 Convert MP3 → WAV using cloudconvert.com
 
-2. ASCII Art (🖼️ Very Important)
+2. ASCII Art (Very Important)
 Generate ASCII art using:
 
 TAAG
 
 TextKool
+
+3. User Interaction
+Ask for user’s name and personalize responses.
+
+
