@@ -34,3 +34,10 @@ Windows Voice Recorder (preferred)
 Text-to-Speech sites (ttsmp3.com, fakeyou.com, naturalreaders.com)
 
 Convert MP3 → WAV using cloudconvert.com
+
+2. ASCII Art (🖼️ Very Important)
+Generate ASCII art using:
+
+TAAG
+
+TextKool
