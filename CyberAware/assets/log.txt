@@ -1,0 +1,69 @@
+[2026-04-01T22:44:19.1497466Z] [WARN] Audio file not found at 'C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\..\..\..\assets\greeting.wav'. Skipping voice greeting. Place your welcome.wav in assets/welcome.wav to enable audio.
+[2026-04-01T23:11:00.5737082Z] [WARN] Audio file not found at 'C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\..\..\..\assets\greeting.wav'. Skipping voice greeting. Place your welcome.wav in assets/welcome.wav to enable audio.
+[2026-04-01T23:49:03.9946572Z] [INFO] Attempting to play audio: C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-01T23:49:53.8782934Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-01T23:56:14.7893567Z] [INFO] Attempting to play audio: C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-01T23:56:34.2498724Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T00:03:46.9920735Z] [INFO] Attempting to play audio: C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T00:04:03.7059345Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T00:13:28.8908252Z] [INFO] Attempting to play audio: C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T00:13:45.9033075Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T00:23:27.8240669Z] [INFO] Attempting to play audio: C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T00:23:58.8188549Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T00:30:33.9138573Z] [INFO] Attempting to play audio: C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T00:30:55.3807704Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T00:37:59.5420878Z] [INFO] Attempting to play audio: C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T00:38:19.7640573Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T00:43:59.5450164Z] [INFO] Attempting to play audio: C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T00:44:20.1468346Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T00:53:45.7525748Z] [INFO] Attempting to play audio: C:\Users\Nosipho\source\repos\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T00:54:04.4043195Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T08:42:00.8792276Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T08:42:14.2380245Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T08:47:17.8667533Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T08:47:31.0946532Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T08:59:54.7659673Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:00:08.3100399Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T09:01:10.5316418Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:01:46.3322670Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:01:59.5080410Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T09:06:20.0781922Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:06:33.3214157Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T09:12:23.1564433Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:12:36.3801097Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T09:15:48.4065851Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:16:01.2002410Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T09:20:08.4746140Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:20:21.6318931Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T09:27:10.2631900Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:27:23.7533835Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T09:36:12.8489901Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:36:26.7429364Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T09:40:13.9415282Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:40:27.0033626Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-02T09:40:51.0678390Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:46:17.2713569Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-02T09:46:30.9207528Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T07:50:39.7837309Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T07:50:52.2674882Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T07:51:35.9466910Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T07:51:49.9205795Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T07:52:42.2162410Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T07:52:55.4598054Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T07:57:34.9437123Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T07:57:47.8926630Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T07:58:46.1275019Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T07:58:59.0705722Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T08:04:26.7467409Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T08:04:39.9401353Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T08:05:20.1902661Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T08:05:33.4047229Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T08:11:22.7874068Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T08:11:36.1079390Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T08:17:42.2521700Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T08:17:55.5030791Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T08:20:22.3578284Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T08:20:35.5342411Z] [INFO] Played audio using System.Media.SoundPlayer.
+[2026-04-07T08:31:57.8523786Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T08:33:47.7897149Z] [INFO] Attempting to play audio: C:\Users\abong\OneDrive\Documents\CyberAware\CyberAware\CyberAware\bin\Debug\net10.0\assets\greeting.wav
+[2026-04-07T08:34:01.2580048Z] [INFO] Played audio using System.Media.SoundPlayer.
